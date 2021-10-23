@@ -17,7 +17,7 @@
 <a href="https://discord.gg/Uute9tRp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uute9tRp" height="30" width="40" /></a>
 </p>
 
-<p  align="center"><img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <div align="center">  
 
