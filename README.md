@@ -23,8 +23,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/georgelazaroff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="georgelazaroff" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grglzrv&show_icons=true&locale=en&layout=compact" alt="grglzrv" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=grglzrv&show_icons=true&locale=en" alt="grglzrv" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grglzrv&" alt="grglzrv" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grglzrv&show_icons=true&locale=en&layout=compact" alt="grglzrv" /></p>
