@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grglzrv&label=Profile%20views&color=0e75b6&style=flat" alt="grglzrv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grglzrv" alt="grglzrv" /></a> </p>
-
 - 💬 Ask me about: **k8s, docker, mikrotik**
 
 - 📫 How to reach me: <br>
@@ -53,12 +51,15 @@
 
 </div>
 
-
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/georgelazaroff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="georgelazaroff" /></a></p>
+<p><a href="https://www.buymeacoffee.com/georgelazaroff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="georgelazaroff" /></a>
+<a href="https://paypal.me/georgilazaroff" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" height="50" width="210 align="center" /></a></p>
 
-<br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grglzrv&show_icons=true&locale=en&layout=compact" alt="grglzrv" /></p><br><br><br><br><br><br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grglzrv" alt="grglzrv" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grglzrv&show_icons=true&locale=en&layout=compact" alt="grglzrv" /></p><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=grglzrv&show_icons=true&locale=en" alt="grglzrv" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grglzrv&" alt="grglzrv" /></p>
+      
+
