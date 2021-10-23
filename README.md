@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grglzrv" alt="grglzrv" /></a> </p>
 
-- 💬 Ask me about **k8s, docker, mikrotik**
+- 💬 Ask me about: **k8s, docker, mikrotik**
 
-- 📫 How to reach me **georgi@lazaroff.pro**
+- 📫 How to reach me: **georgi@lazaroff.pro**
 
-- ⚡ Fun fact **The quieter you become, the more you are able to hear**
+- ⚡ Fun fact: **The quieter you become, the more you are able to hear**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
