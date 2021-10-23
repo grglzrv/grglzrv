@@ -34,7 +34,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="30" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="30" />
+<img style="margin: 10px" src="https://findvectorlogo.com/wp-content/uploads/2019/01/ifttt-vector-logo.png" alt="IFTTT" height="30" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="Traefik" height="30" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="30" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="30" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" height="30"/> 
