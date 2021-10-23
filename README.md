@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grglzrv&label=Profile%20views&color=0e75b6&style=flat" alt="grglzrv" /> </p>
 
-- 💬 Ask me about: **k8s, docker, mikrotik**
+- 💬 Ask me about: **<a href="https://kubernetes.io/" target="blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  <a href="https://www.docker.com/" target="blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  <a href="https://mikrotik.com/" target="blank"><img style="margin: 10px" src="https://i.mt.lv/mtv2/logo.svg" alt="MikroTik" height="25" /></a>**
 
 - 📫 How to reach me: <br>
       - ***email***: **<a href="mailto:georgi@lazaroff.pro"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" height="20"/>georgi@lazaroff.pro</a>** & **<a href="mailto:georgi@lazaroff.pro"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="16"/>lazarovgogo@gmail.com</a>** <br>
