@@ -62,7 +62,7 @@
 </div>
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/georgelazaroff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="georgelazaroff" /></a>
+<p><a href="https://www.buymeacoffee.com/georgelazaroff"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=georgelazaroff&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
 <a href="https://paypal.me/georgilazaroff" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" height="50" width="210 align="center" /></a></p>
 <h3 align="left">Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grglzrv" alt="grglzrv" /></a> </p>
@@ -71,5 +71,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=grglzrv&show_icons=true&locale=en" alt="grglzrv" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grglzrv&" alt="grglzrv" /></p>
-      
-
