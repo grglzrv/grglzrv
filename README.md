@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi Lazarov</h1>
-<h3 align="center">Senior DevOps Engineer ( Certified Kubernetes Administrator) - Flutter International</h3>
+<h3 align="center">Senior DevOps Engineer (Certified Kubernetes Administrator) - Flutter International</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grglzrv&label=Profile%20views&color=0e75b6&style=flat" alt="grglzrv" /> </p>
 
@@ -64,6 +64,7 @@
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/georgelazaroff"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=georgelazaroff&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
 <a href="https://www.paypal.com/donate?hosted_button_id=VDUTV96VTLTJE" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" height="50" width="210 align="center" /></a></p>
+  
 <h3 align="left">Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grglzrv" alt="grglzrv" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grglzrv&show_icons=true&locale=en&layout=compact" alt="grglzrv" /></p><br><br><br><br><br><br><br>
