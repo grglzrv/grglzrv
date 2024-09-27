@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi Lazarov</h1>
-<h3 align="center">Engineering Manager - DevOps (Certified Kubernetes Administrator) - Nexo</h3>
+<h3 align="center">Staff DevOps Engineer (Certified Kubernetes Administrator) - Trading 212</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grglzrv&label=Profile%20views&color=0e75b6&style=flat" alt="grglzrv" /> </p>
 
